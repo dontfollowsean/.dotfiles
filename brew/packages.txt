@@ -1,0 +1,17 @@
+awscli
+dep
+go
+joplin
+kubectx
+kubernetes-cli
+maven
+micro
+mysql
+node
+python
+shellcheck
+shpotify
+watchman
+wget
+zsh
+zsh-completions

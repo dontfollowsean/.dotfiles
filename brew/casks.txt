@@ -1,0 +1,8 @@
+aerial
+font-source-code-pro
+gimp
+google-cloud-sdk
+java
+mysqlworkbench
+visual-studio-code
+iterm2
